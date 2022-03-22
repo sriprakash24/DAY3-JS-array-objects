@@ -1,0 +1,75 @@
+/************************************* Resume in JSON Format *******************************/
+
+{
+  "basics": {
+    "name": "Sriprakash A",
+    "picture": "",
+    "email": "asp434221@gmail.com",
+    "phone": "7985642133",
+    "degree": "BE",
+    "summary": "open to network",
+    "location": {
+      "address": "abc street",
+      "postalCode": "654878",
+      "city": "coimbatore"
+      
+    },
+    
+  "work": [
+    {
+      "company": "xyz",
+      "position": "programmer trainee",
+      "website": "xyz.in",
+      "startDate": "11-02-2021",
+      "endDate": "",
+      "summary": "front end developer",
+      
+    }
+  ],
+  
+  "education": [
+    {
+      "institution": "abc",
+      "area": "coimbatore",
+      "studyType": "afflitd",
+      "startDate": "04-05-2017",
+      "endDate": "21-06-2021",
+      "gpa": "8.01",
+      "courses": [
+        "c" ,"java"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "cricket",
+      "date": "24-02-2016",
+      "awarder": "collector",
+      "summary": "state level"
+    }
+  ],
+  
+  "skills": [
+    {
+      "name": "software development",
+      "level": "indermediate",
+      "keywords": [
+        "c" ,"java","html","dbms"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": ["English","tamil"],
+      "fluency": "high"
+    }
+  ],
+  "interests": [
+    {
+      "name": "travelling",
+      "keywords": [
+        "I love travelling"
+      ]
+    }
+  ]
+}}
